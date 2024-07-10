@@ -1,0 +1,5 @@
+I use a service called WakaTime to track my coding time. I currently try to hit a minimum of 10 hours of coding time each week. Sometimes I get there, most of the time I don't…which I'm almost ashamed to say because I'm also the guy trying to build a whole SaaS startup. But that aside, making things is a personal passion of mine and any improvements I've made in my abilities to build things has come almost exclusively from my consistent pursuit of making something I haven't made before.
+
+This section is full of the things I think are helpful not just for finding **WHAT** to build, but also **HOW** to build. I'm not suggesting that building needs to be prescriptive…but I realize that I have often needed a push to get the thing in my head out into the real world.
+
+These are a collection of things that have helped me do that.
