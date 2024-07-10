@@ -1,2 +1,3 @@
-# diving-deep-into-devon
-A list of resources for diving into the deep end of web development.
+# Diving Deep into Devon
+
+This project is a brain dump of my 20+ years of experience working in tech and web development.
